@@ -67,7 +67,7 @@ This project is licensed under the MIT License
 📧 Contact
 
 For inquiries or suggestions, contact
-📩 roxjonez1@gmail.com
+📩 [roxjonez1@gmail.com](https://web.whatsapp.com/send?text=hi&phone=254757475299)
 
 <div align="center">
 
