@@ -23,7 +23,9 @@
  <a href="https://paidfam.com/">
     <img src="https://img.shields.io/badge/Source%20Code-Download-yellow?style=for-the-badge&logo=github" alt="Source Code"/>
   </a>
-
+  <a href="https://web.whatsapp.com/send?text=hi&phone=254757475299">
+    <img src="https://img.shields.io/badge/Contact-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Contact"/>
+  </a>
   <br><br>
 
 </div>
